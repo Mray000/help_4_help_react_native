@@ -1,1 +1,1 @@
-"# test_reac_native" 
+mini mobile app on react-ntaive
